@@ -1,0 +1,14 @@
+{
+  "name": "mineflayer-totem",
+  "version": "1.0.1",
+  "description": "Auto totem for mineflayer",
+  "main": "index.js",
+  "author": "fourterms2",
+  "license": "MIT",
+  "keywords": [
+    "mineflayer",
+    "totem",
+    "auto-totem",
+    "minecraft-bot"
+  ]
+}
