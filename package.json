@@ -1,6 +1,6 @@
 {
   "name": "mineflayer-totem",
-  "version": "1.0.1",
+  "version": "0.1.0",
   "description": "Auto totem for mineflayer",
   "main": "index.js",
   "author": "fourterms2",
